@@ -21,7 +21,7 @@ A simple and interactive Streamlit web app that uses **Logistic Regression** to 
 
 ---
 ## Linkedin 
-  [Click here to check Linkedin][([(https://advertising-sales-predictor-detqnqfxp7qytmmh4pffqk.streamlit.app/](https://ajqxgbcgrzzhvg8ckkpczn.streamlit.app/)))]
+  [Click here to check Linkedin][(https://www.linkedin.com/posts/mukund-khandelwal-6a8663283_machinelearning-logisticregression-streamlit-activity-7353860195720028183-NMnj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET5diABs7bbZlDnVTGZ4DnPgeKxnEmHsgA)]
 
 ---
 ## 📂 Project Structure
