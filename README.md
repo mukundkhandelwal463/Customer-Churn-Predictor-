@@ -17,10 +17,13 @@ A simple and interactive Streamlit web app that uses **Logistic Regression** to 
 
 ## 🚀 Live Demo
 
-🌐 [Click here to try the app](https://advertising-sales-predictor-detqnqfxp7qytmmh4pffqk.streamlit.app/)
+🌐 [Click here to try the app][(https://advertising-sales-predictor-detqnqfxp7qytmmh4pffqk.streamlit.app/](https://ajqxgbcgrzzhvg8ckkpczn.streamlit.app/))
 
 ---
+## Linkedin 
+  [Click here to check Linkedin][([(https://advertising-sales-predictor-detqnqfxp7qytmmh4pffqk.streamlit.app/](https://ajqxgbcgrzzhvg8ckkpczn.streamlit.app/)))]
 
+---
 ## 📂 Project Structure
 Logisitic_Reg_Project/
 ├── logistic_reg_project.py # Main Streamlit web app
