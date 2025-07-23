@@ -8,7 +8,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
 # Load dataset
-data = pd.read_csv("C:\\Users\\mukun\\OneDrive\\Documents\\python\\sklearn\\Logistic Regression_project\\churn.csv")
+data = pd.read_csv("churn.csv")
 
 # Select required columns
 columns = [
